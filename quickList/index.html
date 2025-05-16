@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&family=Roboto:wght@400;500;700&display=swap"
+        rel="stylesheet" />
+
+    <link rel="stylesheet" href="style.css" />
+
+    <title>QuickList</title>
+</head>
+<body>
+    <img id="logo" src="./img/logo.svg" alt="QuickList logo" />
+
+    <main class="container">
+        <a href="#"><img id="back" src="img/link button.svg"></a>
+        <h1>Compras da semana</h1>
+
+        <form>
+            <input type="text" id="addItem" placeholder="Adicione um novo item" />
+            <button type="submit" class="buttonAddItem">Adicionar item</button>
+        </form>
+
+      <div id="itemList"></div>
+
+    </main>
+<script src="script.js"></script>
+</body>
+
+</html>
