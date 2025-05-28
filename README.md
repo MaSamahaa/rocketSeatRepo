@@ -6,7 +6,7 @@ Este repositório reúne todos os meus projetos desenvolvidos durante a trilha *
 
 Se quiser trocar uma ideia, dar feedback ou contribuir:
 
-- [LinkedIn](www.linkedin.com/in/mariasamahaa)
+- [LinkedIn](www.linkedin.com/in/mariasamahaa/)
 - [Email](clarasamaha@gmail.com)
 
 ---
